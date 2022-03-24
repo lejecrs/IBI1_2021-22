@@ -1,0 +1,4 @@
+  Firstly, I do think that I have learned a lot during this Practical section, like how to make version control using git and github, how to use online resources to
+overcome difficulties that I have met. Actually, not everything went smoothly in this Practical section like not being able to push, not knowing the structure between
+index and repo. But finally with the help of my classmate and teachers, I finally made it. And now I can say that I can use basic command in git and github to make 
+version control.

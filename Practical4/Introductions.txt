@@ -1,5 +1,6 @@
-Hello. 
-My name is Rob.
-I like drinking tea and eating biscuits.
-I don't like my desk chair. I need a new one.
+Hello! 
+My name is Jianche,Liu (Eric).
+I especially love drinking milktea!
+I have been lately working on Python.
+It's slightly difficult to me.
 
