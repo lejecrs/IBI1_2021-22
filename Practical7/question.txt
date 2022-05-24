@@ -1,0 +1,10 @@
+How have new cases and total cases developed over time in Spain？
+
+The plot answer to this begin at line 52 in main python file.
+
+Explanation: I think the number of new cases and total cases were quite low and close,
+which indicates that the virus didn't massly invade the country and haven't cause many
+cases. It was not until about 2020/3 when the number started to surge. This might indicate
+ that the Covid-19 virus began to spread massly and quickly in Spain. Also, we can see a 
+distinction between the new cases and the total cases, indicating that the spreading speed 
+of this virus was fast and the cure rate had been low by then in Spain.

@@ -1,0 +1,22 @@
+
+Summary:
+(1)The alignment scores:
+Between  >DLX5_MOUSE   and  >DLX5_HUMAN: 1490
+Between >RandomSeq          and >DLX5_MOUSE : -348
+Between >RandomSeq          and >DLX5_HUMAN: -351
+
+(2)The percentage of identical amino acids	for each comparison.
+Between >DLX5_MOUSE   and   >DLX5_HUMAN: 0.9653979238754326
+Between >RandomSeq         and  >DLX5_MOUSE : 0.031141868512110725
+Between >RandomSeq         and  >DLX5_HUMAN: 0.02768166089965398
+
+(3)Interpretations:
+First, as seen in the percentage of identical amino acids, the ratio between human DLX5 protein and mouse DLX5 protein is approxiamately 1. Which means from evolutionary aspect, they are
+highly related to each other. I think the reason lies in that although they are in different organisms, they actually encode the same protein. Also, the ratio between random sequence and DLX5
+ protein sequence is low, which counts for the randomness of the sequence >RandomSeq . This means that there is no evolutionary relationship between the random sequence and the DLX5 
+protein sequences.
+Second, it is observed that higher alignment scores is related to the percentage of identical amino acids. The data shows that higher percentage correspond to higher alignment scores.
+From the internet, I got that the scores in the BLOSUM matrix is calculated by the (log) ratio of the observed probability of substitution of one amino acid by another divided by the
+ probability expected purely due to chance. So it's resonable that higher alignment score is observed in more identical amino acid sequences.
+
+
