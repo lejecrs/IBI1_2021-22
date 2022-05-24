@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-I like apple
-I like milktea
-I like coffee
-I like tea
-I like coca
-I like barbecue
-I like steak
-I like money
-I like music very much
-
-
-=======
 I like apple
 I like milktea
 I like coffee
@@ -26,4 +13,4 @@ I like banana
 I like pear
 I like bull
 I don't like snakes
->>>>>>> eric
+
